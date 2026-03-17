@@ -2,6 +2,7 @@ import Components from '@/components/shadcn-studio/button/button-41'
 import Component from '@/components/shadcn-studio/button/card-18'
 import Component3 from '@/components/shadcn-studio/button/card-17'
 import Component4 from '@/components/shadcn-studio/button/card-15'
+import Component5 from '@/components/shadcn-studio/button/button-55'
 
 export default function Page() {
   return (
@@ -10,6 +11,7 @@ export default function Page() {
             <Component />
              <Component3 />
              <Component4 />
+                <Component5 />
     </main>
 
 
